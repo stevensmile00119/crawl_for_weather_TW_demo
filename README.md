@@ -12,7 +12,7 @@ Use to crawl Taiwan's area weather from http://e-service.cwb.gov.tw/HistoryDataQ
 
 ## 前言(Foreword)
 此專案應友人需求而生，初窺爬蟲，還請不吝指教<br>
-I am the beginner in Git and crawl.This respository was created by request from my firend.
+I am the beginner in Git and crawl.This repository was created by request from my firend.
 If there are any problems, feel free to give your comments.Thanks for your suggestions.
 
 ## 使用(Guide):
